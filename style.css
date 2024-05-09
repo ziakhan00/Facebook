@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(240, 242, 245);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTb2y7bRAddspy1PeJXHDFd8D9yr2TGmj44A&usqp=CAU');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    font-size: 25px;
+    
+}
+.form{
+    background-color: white;
+    width: 300px;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 9px;
+    position: absolute;
+    top: 20%;
+    right: 14%;
+    justify-content: center;
+    
+    
+
+}
+.buttoncolor:hover{
+    background-color: greenyellow;
+    align-content: center;
+    font-size: x-large;
+}
+.logincolor{
+    background-color: rgb(81, 81, 231);
+    align-content: center;
+}
+.picture img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 20px rgb(26, 26, 30);
+    align-items: center;
+    background-size:cover;
+    border: 10x solid black;
+    border-style: double;
+    
+}
+.post{
+    align-self: center;
+    border-radius: 300px;
+    border-color: gray;
+}
+.size1{
+     text-align: left;
+}
+.size2{
+    text-align: center;
+}
+.size3{
+    text-align: right;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+}
+
+.post {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 15px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-info img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user-details h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.user-details p {
+    margin: 0;
+    font-size: 12px;
+    color: #606770;
+}
+
+.post-content {
+    margin: 10px 0;
+}
+
+.post-actions button {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.post-actions button:hover {
+    background-color: #1566e0;
+}
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-info img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user-details h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.user-details p {
+    margin: 0;
+    font-size: 12px;
+    color: #606770;
+}
+
+.post-caption {
+    margin: 10px 0;
+}
+
+.post-actions button {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.post-actions button:hover {
+    background-color: #1566e0;
+}
+.fullbody{
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 15px;
+
+}
